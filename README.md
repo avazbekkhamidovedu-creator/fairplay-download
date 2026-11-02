@@ -1,9 +1,13 @@
 # FairPlay
 
-Secure exam app for universities. This page only hosts the app downloads.
+Secure exam app for universities. This repository hosts the app downloads.
 
-**Direct downloads (newest version):**
-[Mac](https://github.com/avazbekkhamidovedu-creator/fairplay-download/releases/latest/download/FairPlay-Mac.dmg) · [Windows](https://github.com/avazbekkhamidovedu-creator/fairplay-download/releases/latest/download/FairPlay-Windows-Setup.exe) · [iPad test build](https://github.com/avazbekkhamidovedu-creator/fairplay-download/releases/latest/download/FairPlay-iPad.ipa)
+## What's new in 0.7.9
+
+- Open the exam-code screen from DKU OJ on Mac, Windows and iPad, using the FairPlay button or a launch file.
+- Clearer Windows update notices, retry controls and installer guidance.
+- Reopened hand-ins retain numbered revisions, with the latest hand-in shown first.
+- Improved class, roster and instructor permission synchronization.
 
 ## Download FairPlay
 
@@ -57,6 +61,7 @@ Good to know:
 - FairPlay only allows Apple's own keyboards (third-party keyboards are switched off).
 
 ### Before the exam
-- In FairPlay, sign in with the username and password from your teacher.
+- In FairPlay, enter the exam access code supplied by your instructor.
+- On DKU OJ, use **Start exam in FairPlay** after installing this version. If the browser does not open the app, open FairPlay manually and enter the code.
 - Use **Check this Mac / Check this PC** any day before the exam and fix anything red.
-- Exam server: https://exam.speakupai.uz
+- Exam server: https://dku.speakupai.uz
